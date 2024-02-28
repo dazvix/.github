@@ -16,7 +16,7 @@ At Dazvix Solution, we strive to deliver top-notch software solutions tailored t
 
 We'd love to hear from you! Whether you have questions about our services or want to discuss a potential project, feel free to reach out to us:
 
-- **Email:** contact@dazvixsolution.com
+- **Email:** <contact@dazvixsolution.com>
 - **Website:** [www.dazvixsolution.com](https://www.dazvixsolution.com)
 - **LinkedIn:** [Dazvix Solution](https://www.linkedin.com/company/dazvixsolution)
 
